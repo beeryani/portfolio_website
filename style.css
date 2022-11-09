@@ -22,14 +22,14 @@ body{
 .nav-bar{
     display: flex;
     margin-top: 40px;
-    margin-left: 500px;
+    margin-left: 450px;
     height: 22px;
 }
 
 .logo-box{
-    margin-left: 52px;
-    margin-top: 30px;
-    margin-right: 75px;
+    margin-left: 125px;
+    margin-top: 15px;
+    margin-right: 55px;
     height: 15px;
     border-width: 2px;
     padding: 8px;
@@ -67,9 +67,30 @@ body{
 .desc{
     font-family: 'Cormorant Garamond', serif;
     font-size: 18px;
-    width: 366px;
+    width: 500px;
     height: 137px;
     font-weight: 100;
     margin-left: 200px;
-    margin-top: 42px;
+    margin-top: 25px;
+}
+
+.blue{
+    background-color: #2D9CDB;
+    color: white;
+    width: 150px;
+    height: 57px;
+    border-radius: 12px;
+    border: 2px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.project{
+    display: flex;
+    column-gap: 20px ;
+    margin-left: 200px;
+}
+
+.height{
+    height: 50px;
 }
