@@ -1,6 +1,6 @@
 # [neoGcamp: LessonThree]('https://neog.camp/guide/lessonTwo')
 
-> Repository for LessonTwo of levelZero of neoGcamp
+> Repository for LessonThree of levelZero of neoGcamp
 
 ## assignment for markFour && markFive
 
