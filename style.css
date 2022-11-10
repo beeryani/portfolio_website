@@ -97,4 +97,13 @@ body{
 
 .heightOne{
     height: 100px;
+    width: 1100px;
+}
+
+.blogPost{
+    height: 75px;
+}
+
+.blogPostHeading{
+    width: 500px;
 }
